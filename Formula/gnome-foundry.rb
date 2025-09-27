@@ -1,4 +1,4 @@
-class Foundry < Formula
+class GnomeFoundry < Formula
   desc "This tool aims to extract much of what makes GNOME Builder an IDE into a library and companion command-line tool."
   homepage "https://gitlab.gnome.org/GNOME/foundry"
   url "https://gitlab.gnome.org/GNOME/foundry/-/archive/main/foundry-main.tar.gz?ref_type=heads"
